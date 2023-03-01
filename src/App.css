@@ -204,8 +204,8 @@ body{
 
 .container-blue {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: blue;
   border-radius: 25px;
   font-size: x-large;
@@ -214,8 +214,8 @@ body{
 }
 .container-red {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: red;
   border-radius: 25px;
   font-size: x-large;
@@ -224,8 +224,8 @@ body{
 }
 .container-yellow {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: yellow;
   border-radius: 25px;
   font-size: x-large;
@@ -234,8 +234,8 @@ body{
 }
 .container-gray {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: gray;
   border-radius: 25px;
   font-size: x-large;
@@ -244,8 +244,8 @@ body{
 }
 .container-rebeccapurple {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: rebeccapurple;
   border-radius: 25px;
   font-size: x-large;
@@ -254,8 +254,8 @@ body{
 }
 .container-violet {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: violet;
   border-radius: 25px;
   font-size: x-large;
@@ -264,8 +264,8 @@ body{
 }
 .container-pink {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: pink;
   border-radius: 25px;
   font-size: x-large;
@@ -274,8 +274,8 @@ body{
 }
 .container-darkblue {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: darkblue;
   border-radius: 25px;
   font-size: x-large;
@@ -284,8 +284,8 @@ body{
 }
 .container-darkred {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: darkred;
   border-radius: 25px;
   font-size: x-large;
@@ -294,8 +294,8 @@ body{
 }
 .container-darkgoldenrod {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: darkgoldenrod;
   border-radius: 25px;
   font-size: x-large;
@@ -304,8 +304,8 @@ body{
 }
 .container-cyan {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: cyan;
   border-radius: 25px;
   font-size: x-large;
@@ -314,8 +314,8 @@ body{
 }
 .container-darkcyan {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: darkcyan;
   border-radius: 25px;
   font-size: x-large;
@@ -324,8 +324,8 @@ body{
 }
 .container-orange {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: orange;
   border-radius: 25px;
   font-size: x-large;
@@ -334,8 +334,8 @@ body{
 }
 .container-magenta {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: magenta;
   border-radius: 25px;
   font-size: x-large;
@@ -344,8 +344,8 @@ body{
 }
 .container-darkorange {
   padding: 20px 50px;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 40%;
+  min-width: 40%;
   background-color: darkorange;
   border-radius: 25px;
   font-size: x-large;
