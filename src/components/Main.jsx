@@ -45,7 +45,7 @@ const Main = () => {
       <div className={color[rnd]}>
           <p>{Phrases[rnd]?.phrase}</p> 
           <p>{Phrases[rnd]?.author}</p>
-          <button onClick={() => setRnd(Math.round(Math.random() * (Phrases.length-1)))}>Cambiar Frase</button>
+          <button onClick={() => setRnd(Math.round(Math.random() * (Phrases.length-1)))}> ▶ </button>
       </div>
     </div>
   )

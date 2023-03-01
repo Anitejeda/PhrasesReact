@@ -7,7 +7,6 @@ body{
   width: 100%;
   height: 100vh; 
 }
-
 .bg-blue{
   display: flex;
   background-image: url("./assets/img/blue.jpg");
@@ -19,8 +18,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
-
 .bg-red{
   display: flex;
   background-image: url("./assets/img/red.jpg");
@@ -32,7 +29,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-yellow{
   display: flex;
   background-image: url("./assets/img/Yellow.jpg");
@@ -44,7 +40,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-gray{
   display: flex;
   background-image: url("./assets/img/gray.jpg");
@@ -56,7 +51,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-rebeccapurple{
   display: flex;
   background-image: url("./assets/img/purple.jpg");
@@ -68,7 +62,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-violet{
   display: flex;
   background-image: url("./assets/img/violett.jpg");
@@ -80,7 +73,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-pink{
   display: flex;
   background-image: url("./assets/img/pink.jpg");
@@ -92,7 +84,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-darkblue{
   display: flex;
   background-image: url("./assets/img/DarkBlue.jpg");
@@ -104,7 +95,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-darkred{
   display: flex;
   background-image: url("./assets/img/darkred.jpg");
@@ -116,7 +106,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-darkgoldenrod{
   display: flex;
   background-image: url("./assets/img/darkgolden.jpg");
@@ -128,7 +117,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-cyan{
   display: flex;
   background-image: url("./assets/img/cyan.jpg");
@@ -140,7 +128,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-darkcyan{
   display: flex;
   background-image: url("./assets/img/darkcyan.jpg");
@@ -152,7 +139,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-orange{
   display: flex;
   background-image: url("./assets/img/orange1.jpg");
@@ -164,7 +150,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-magenta{
   display: flex;
   background-image: url("./assets/img/magenta.jpg");
@@ -176,7 +161,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-darkorange{
   display: flex;
   background-image: url("./assets/img/darkorange.jpg");
@@ -188,7 +172,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
 .bg-blue{
   display: flex;
   background-image: url("./assets/img/blue.jpg");
@@ -200,8 +183,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-
-
 .container-blue {
   padding: 20px 50px;
   max-width: 40%;
@@ -354,11 +335,10 @@ body{
 }
 
 button{ 
-  margin-left: 80%;
   padding: 5px;
   width: 120px;
-  background-color: darkblue;
-  color: white;
+  background-color: rgb(34, 34, 45);
+  color: rgb(251, 246, 246);
   border-radius: 10px;
   font-size: 16px;
 }
