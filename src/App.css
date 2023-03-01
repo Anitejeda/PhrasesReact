@@ -1,0 +1,370 @@
+body{
+  overflow: hidden;
+  overscroll-behavior: hidden;
+  margin: 0;
+}
+.App{ 
+  width: 100%;
+  height: 100vh; 
+}
+
+.bg-blue{
+  display: flex;
+  background-image: url("./assets/img/blue.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.bg-red{
+  display: flex;
+  background-image: url("./assets/img/red.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-yellow{
+  display: flex;
+  background-image: url("./assets/img/Yellow.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-gray{
+  display: flex;
+  background-image: url("./assets/img/gray.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-rebeccapurple{
+  display: flex;
+  background-image: url("./assets/img/purple.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-violet{
+  display: flex;
+  background-image: url("./assets/img/violett.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-pink{
+  display: flex;
+  background-image: url("./assets/img/pink.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-darkblue{
+  display: flex;
+  background-image: url("./assets/img/DarkBlue.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-darkred{
+  display: flex;
+  background-image: url("./assets/img/darkred.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-darkgoldenrod{
+  display: flex;
+  background-image: url("./assets/img/darkgolden.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-cyan{
+  display: flex;
+  background-image: url("./assets/img/cyan.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-darkcyan{
+  display: flex;
+  background-image: url("./assets/img/darkcyan.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-orange{
+  display: flex;
+  background-image: url("./assets/img/orange1.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-magenta{
+  display: flex;
+  background-image: url("./assets/img/magenta.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-darkorange{
+  display: flex;
+  background-image: url("./assets/img/darkorange.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-blue{
+  display: flex;
+  background-image: url("./assets/img/blue.jpg");
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.container-blue {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: blue;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-red {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: red;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-yellow {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: yellow;
+  border-radius: 25px;
+  font-size: x-large;
+  color: rgb(101, 101, 101);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-gray {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: gray;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-rebeccapurple {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: rebeccapurple;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-violet {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: violet;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-pink {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: pink;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-darkblue {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: darkblue;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-darkred {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: darkred;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-darkgoldenrod {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: darkgoldenrod;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-cyan {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: cyan;
+  border-radius: 25px;
+  font-size: x-large;
+  color: rgb(101, 101, 101);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-darkcyan {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: darkcyan;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-orange {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: orange;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-magenta {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: magenta;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-darkorange {
+  padding: 20px 50px;
+  max-width: 500px;
+  min-width: 500px;
+  background-color: darkorange;
+  border-radius: 25px;
+  font-size: x-large;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{ 
+  margin-left: 80%;
+  padding: 5px;
+  width: 120px;
+  background-color: darkblue;
+  color: white;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+button:hover{
+  background-color: gray;
+  cursor: pointer;
+  user-select: none;
+}
